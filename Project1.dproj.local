@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.142,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit3.fmx=C:\Users\user\Documents\Embarcadero\Studio\Projects\приложениерабочее.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.724,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\user\Documents\Embarcadero\Studio\Projects\приложениерабочее.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.608,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.504,C:\Users\user\Documents\Embarcadero\Studio\Projects\Project3.dproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,C:\Users\Stepan\Desktop\Приложение\приложение конечное\приложениерабочее.fmx=C:\Users\Stepan\Desktop\Мультиприложение\Unit1.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.184,C:\Users\Stepan\Desktop\Приложение\приложение конечное\Project3.dproj=C:\Users\Stepan\Desktop\Мультиприложение\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.893,C:\Users\Stepan\Desktop\Приложение\приложение конечное\приложениерабочее.pas=C:\Users\Stepan\Desktop\Мультиприложение\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="5008f2381220"/>
+	</ActiveMobileDevice>
+</BorlandProject>
